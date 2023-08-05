@@ -1,0 +1,17 @@
+note : background lebih banyak makan memory, jadi lebih bagus di spesifik
+background : lebih banyak makan memory 
+styling color
+font size : mengatur ukuran font
+font weight =  property sets how thick or thin characters in text should be displayed
+background color : The background of an element is the total size of the element, including padding and border (but not the margin)
+background images : The background-image property sets one or more background images for an element. By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+background = color dan images(memori lebih banyak)
+height : The height property sets the height of an element. The height of an element does not include padding, borders, or margins!
+width : 
+float : The float property specifies whether an element should float to the left, right, or not at all. Absolutely positioned elements ignore the float property!. Elements next to a floating element will flow around it. To avoid this, use the clear property or the clearfix
+flex : 
+border : 
+position : 
+
+css -> 
+:first-child -> The :first-child selector is used to select the specified selector, only if it is the first child of its parent.
